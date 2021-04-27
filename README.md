@@ -3,6 +3,10 @@
 Untuk keperluan testing JWT pada Echo dengan Signing Key RS256.
 Lihat [echo-rsa-jwt](https://github.com/punyaikhwan/echo-rsa-jwt)
 
+### Generate Pasangan Key RSA
+Lihat [Generate RSA Keys](https://learn.akamai.com/en-us/webhelp/iot/jwt-access-control/GUID-BD7079F4-09ED-4FAB-A923-4ACFE254BA3E.html)
+Simpan sebagai `private.pem` dan `public.pem`
+
 ### Jalankan aplikasi:
 ```go run main.go```
 
